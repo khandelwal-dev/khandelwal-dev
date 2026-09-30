@@ -4,7 +4,7 @@ I’m a 20-year-old developer who genuinely loves building things with code — 
 I enjoy working across the stack and care deeply about clean architecture, performance, and developer experience.
 
 ## Find me
-- 🌐 Portfolio: https://khandelwaldev.me
+- 🌐 Portfolio: https://slyro.vercel.app
 
 ---
 
