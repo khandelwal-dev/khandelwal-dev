@@ -1,6 +1,6 @@
 # Dev Khandelwal
 
-I’m a 20-year-old developer who genuinely loves building things with code — from ideas to usable products.  
+I’m a 21-year-old developer who genuinely loves building things with code — from ideas to usable products.  
 I enjoy working across the stack and care deeply about clean architecture, performance, and developer experience.
 
 ## Find me
